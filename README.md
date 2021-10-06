@@ -1,7 +1,7 @@
 About ssh_ipykernel_interrupt
 =============================
 
-Home: https://github.com/github_username/ssh_ipykernel
+Home: https://github.com/bernhard-42/ssh_ipykernel/tree/master/ssh_ipykernel_interrupt
 
 Package license: BSD-3-Clause
 
