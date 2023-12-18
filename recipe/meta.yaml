@@ -11,13 +11,13 @@ source:
   sha256: 15348f2ed9e0a66707bbbd5df042886d23c5a6aa0dcf67f8792c14adef905097
 
 build:
-  number: 0
+  number: 3
   script: {{ PYTHON }} -m pip install . -vv
 
 requirements:
   build:
     - nodejs
-    - sysroot_linux-64 ==2.17  # [linux]
+    - sysroot_linux-64 2.17  # [linux64]
   host:
     - jupyter-packaging
     - pip
